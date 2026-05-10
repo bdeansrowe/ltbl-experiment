@@ -30,7 +30,7 @@ material, no structured design reasoning.
  
 **Ignorance** —
 [`ltbl-ignorance`](https://github.com/bdeansrowe/ltbl-ignorance)
-Thin documentation, no methodology. The control condition.
+Thin documentation, no methodology. The control group.
  
 ## What Is Being Measured
  
